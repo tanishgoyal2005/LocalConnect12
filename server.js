@@ -17,6 +17,7 @@ let app = express();
 
 const allowedOrigins = [
     "http://localhost:5173",
+    "https://evenue-seven.vercel.app",
     
 ];
 
